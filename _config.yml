@@ -57,6 +57,9 @@ descriptions:
   - cat: Test
     desc: "Just for the Test github page."
 
+  - cat: 개나소나따라하는 Github Page 만들기
+    desc: "문과생도 만들수 있는 github Page Project"
+
 # Social icons and sharing options
 #
 # Social settings are used in two places:
