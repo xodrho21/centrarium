@@ -1,1 +1,9 @@
+---
+layout: post
+title:  "Test Post"
+date:   2018-03-07 07:45:00
+author: Donghui Kraft Ye
+categories: Test
+---
+
 Test Markdown 
