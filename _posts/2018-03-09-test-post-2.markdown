@@ -2,7 +2,7 @@
 layout: post
 title:  "Test Post 2"
 date:   2018-03-09 18:43:59
-author: Kraft
+author: Donghui Kraft Ye
 categories: Test
 ---
 
